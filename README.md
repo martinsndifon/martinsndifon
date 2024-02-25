@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/martins_ndifon" target="blank"><img src="https://img.shields.io/twitter/follow/martins_ndifon?logo=twitter&style=for-the-badge" alt="martins_ndifon" /></a> </p>
 
-- 🔭 I’m currently working on **a React and FastApi project.**
+- 🔭 I’m currently working on **a React and Django project.**
 
 - 🌱 I’m currently learning **Nextjs**
 
